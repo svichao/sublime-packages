@@ -1,0 +1,11 @@
+  {
+    "jsdocs_extra_tags":[
+        "@Author sunweichao",
+        "@DateTime {{date}}"
+        // "@copyright ${1:[copyright]}",
+        // "@license ${1:[license]}",
+        // "@version ${1:[version]}"
+    ],
+    "jsdocs_function_description": false,
+  "jsdocs_extra_tags_go_after": true
+  }
