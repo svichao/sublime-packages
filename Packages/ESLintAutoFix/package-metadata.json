@@ -1,1 +1,0 @@
-{"version": "1.0.2", "url": "https://github.com/alex-mm/eslintAutoFix", "platforms": ["*"], "dependencies": [], "sublime_text": "*", "description": "ESLint Auto fix with global eslint command."}

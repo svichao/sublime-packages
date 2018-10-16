@@ -1,28 +1,9 @@
 {
 	"color_scheme": "Packages/Boxy Theme/schemes/Boxy Tomorrow.tmTheme",
-	"expand_tabs_on_save": true,
-	"font_size": 11,
+	"font_size": 15,
 	"ignored_packages":
 	[
-		"Sublimerge Pro",
 		"Vintage"
 	],
-	"index_exclude_patterns":
-	[
-		"*.log",
-		"node_modules/"
-	],
-	"tab_size": 2,
-	"theme": "Boxy Tomorrow.sublime-theme",
-	"theme_find_panel_atomized": true,
-	"theme_find_panel_size_xl": true,
-	"theme_icon_button_highlighted": true,
-	"theme_scrollbar_colored": true,
-	"theme_scrollbar_line": true,
-	"theme_statusbar_label_bold": true,
-	"theme_tab_selected_transparent": true,
-	"theme_tab_selected_underlined": true,
-	"theme_tab_width_auto": true,
-	"theme_unified": true,
-	"translate_tabs_to_spaces": true
+	"theme": "Boxy Tomorrow.sublime-theme"
 }

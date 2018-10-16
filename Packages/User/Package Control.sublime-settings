@@ -5,35 +5,9 @@
 	],
 	"installed_packages":
 	[
-		"A File Icon",
-		"AutoFileName",
-		"Babel",
 		"Boxy Theme",
-		"BracketHighlighter",
-		"DocBlockr",
-		"DocBlockr_Python",
-		"Emmet",
-		"Emmet Css Snippets",
-		"ESLintAutoFix",
-		"Git",
-		"HTML-CSS-JS Prettify",
-		"HTML5",
-		"jQuery",
-		"JsPrettier",
-		"LESS",
-		"MarkdownEditing",
-		"Package Control",
 		"Sass",
-		"SASS Build",
-		"SideBarEnhancements",
-		"SublimeCodeIntel",
-		"SublimeLinter",
-		"Sublimerge 3",
-		"Sublimerge Pro",
-		"SublimeTmpl",
-		"Theme - Soda",
 		"Vue Syntax Highlight",
-		"Vuejs Snippets",
-		"DoxyDoxygen"
+		"Vuejs Snippets"
 	]
 }
